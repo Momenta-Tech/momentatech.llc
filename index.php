@@ -5,15 +5,15 @@
   <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport' user-scalable='no'>
   <title>Momenta Tech - Powering Punchlist Zero</title>
   <meta name="description" content="Build trust with your customers by offering them custom tools that will solve their needs." />
-  <link href="http://fonts.googleapis.com/css?family=Exo:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Exo:400,700" rel="stylesheet">
   <link href="./index.css" rel="stylesheet">
-  <link rel="stylesheet" href="http://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
-  <link rel="stylesheet" type="text/css" href="http://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 
-  <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-  <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-  <script type="text/javascript" src="http://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
         
 </head>
 <body>
@@ -24,7 +24,7 @@
       <h1>Custom engineering tools &amp; calculators</h1>
       <h2>Developed by Momenta Tech</h2>
     </div>
-    <img src="http://s3.us-east-2.amazonaws.com/punchlistzero/static/punchlist-zero-momenta.png" alt="Momenta tech on Punchlist Zero" />
+    <img src="https://s3.us-east-2.amazonaws.com/punchlistzero/static/punchlist-zero-momenta.png" alt="Momenta tech on Punchlist Zero" />
   </div>
 
   <div class="secondary">
@@ -80,25 +80,25 @@
   <div class="carousel">
     <div>
       <a href="https://www.punchlistzero.com/eu-and-awg-cable-sizing-calculator/" target="_blank">
-        <img src="http://s3.us-east-2.amazonaws.com/punchlistzero/static/minimum-cable-size.jpg" />
+        <img src="https://s3.us-east-2.amazonaws.com/punchlistzero/static/minimum-cable-size.jpg" />
       </a>
       <a class="caption" href="https://www.punchlistzero.com/eu-and-awg-cable-sizing-calculator/" target="_blank">Cable Sizing and Length Calculator</a>
     </div>
     <div>
       <a href="https://www.punchlistzero.com/raceway-fill-calculator/" target="_blank">
-        <img src="http://s3.us-east-2.amazonaws.com/punchlistzero/static/raceway-fill-calculator.jpg" />
+        <img src="https://s3.us-east-2.amazonaws.com/punchlistzero/static/raceway-fill-calculator.jpg" />
       </a>
       <a class="caption" href="https://www.punchlistzero.com/eu-and-awg-cable-sizing-calculator/" target="_blank">Conduit Fill Calculator</a>
     </div>
     <div>
       <a href="https://www.punchlistzero.com/flange-pressure-rating-calculator-table/" target="_blank">
-        <img src="http://s3.us-east-2.amazonaws.com/punchlistzero/static/pipe-flange-rating-calculator.jpg" />
+        <img src="https://s3.us-east-2.amazonaws.com/punchlistzero/static/pipe-flange-rating-calculator.jpg" />
       </a>
       <a class="caption" href="https://www.punchlistzero.com/eu-and-awg-cable-sizing-calculator/" target="_blank">Pipe Flange Rating Calculator</a>
     </div>
     <div>
       <a href="https://www.punchlistzero.com/control-panel-heat-dissipation-calculator/" target="_blank">
-        <img src="http://s3.us-east-2.amazonaws.com/punchlistzero/static/heat-dissipation-calculator.jpg" />
+        <img src="https://s3.us-east-2.amazonaws.com/punchlistzero/static/heat-dissipation-calculator.jpg" />
       </a>
       <a class="caption" href="https://www.punchlistzero.com/eu-and-awg-cable-sizing-calculator/" target="_blank">Control Panel Heat Dissipation Calculator</a>
     </div>
