@@ -107,7 +107,7 @@
   <div class="unique">
     <div class="container">
       <h2>Momenta Tech Experience</h2>
-      <p><a href="https://www.linkedin.com/in/ziebro/" target="_blank">Travis Ziebro</a> has worked in the Oil and Gas industry as an engineering for over 15 years while <a href="https://www.linkedin.com/in/markmakes/" target="_blank">Mark Lancaster</a> has developed dozens of applications for a myriad of industries for over ten.</p>
+      <p><a href="https://www.linkedin.com/in/ziebro/" target="_blank">Travis Ziebro</a> has worked in the Oil and Gas industry as an engineer for over 15 years while <a href="https://www.linkedin.com/in/markmakes/" target="_blank">Mark Lancaster</a> has developed dozens of applications for a myriad of industries for over ten.</p>
       <p>
         Together, they have developed a dozen engineering calculators and tools that are widely used across the internet. 
       </p>
