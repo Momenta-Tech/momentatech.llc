@@ -17,6 +17,8 @@
         
 </head>
 <body>
+
+  <img src="https://www.mobilemini.com/sites/default/files/logo_0.png" style="margin: 20px; width: 200px; height: auto;" />
   
   <momenta-calc></momenta-calc>
   <script type="text/javascript" src="https://markmakes-misc.s3.amazonaws.com/momentacalc/app.js"></script>
