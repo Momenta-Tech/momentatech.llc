@@ -1,144 +1,228 @@
 <?php ?>
+
 <!DOCTYPE html>
 <head>
   <meta charset="utf-8" />
   <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport' user-scalable='no'>
-  <title>Momenta Tech - Powering Punchlist Zero</title>
-  <meta name="description" content="Build trust with your customers by offering them custom tools that will solve their needs." />
-  <link href="https://fonts.googleapis.com/css?family=Exo:400,700" rel="stylesheet">
+  <title>Momenta Tech - Custom Software Solutions</title>
+  <meta name="description" content="Custom software solutions for the energy industy." />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,900&display=swap" rel="stylesheet">
   <link href="./index.css" rel="stylesheet">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-
-  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
-
-  <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
-  <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
-        
 </head>
-<body>
+<body id="top">
   
-  <div class="cta">
-    <div class="overlay"></div>
-    <div class="inner">
-      <h1>Custom engineering tools &amp; calculators</h1>
-      <h2>Developed by Momenta Tech</h2>
-    </div>
-    <img src="https://s3.us-east-2.amazonaws.com/punchlistzero/static/punchlist-zero-momenta.png" alt="Momenta tech on Punchlist Zero" />
-  </div>
-
-  <div class="secondary">
+  <header class="animate">
     <div class="container">
-      <div>
-        <i class="fab fa-node-js"></i>
-        <h3>Custom javascript</h3>
-      </div>
-      <div>
-        <i class="fas fa-server"></i>
-        <h3>Cloud-based</h3>
-      </div>
-      <div>
-        <i class="fas fa-laptop-code"></i>
-        <h3>Easily embeddable</h3>
-      </div>
-      <div>
-        <i class="fas fa-calculator"></i>
-        <h3>Free options</h3>
-      </div>
+        <img src="https://momentatech.s3.amazonaws.com/momenta-tech.png" alt="Momenta Tech" class="logo" />
+        <h3 class="logo">Momenta<br />Tech</h3>
+        <nav>
+          <a href="#" data-id="areas">EXPERTISE</a>
+          <a href="#" data-id="partners">PARTNERS</a>
+          <a href="#" data-id="blog">BLOG</a>
+          <a href="#" data-id="contact">CONTACT</a>
+        </nav>
     </div>
-  </div>
+  </header>
 
-  <div class="tertiary">
-    <div class="container">
-      <h2>
-        Build trust with your customers
-      </h2>
-      <p>
-        Provide quick and accurate answers to your customers needs with a custom built tool or calculator. From advanced electrical engineering to project management, Momenta Tech can develop any tool you can imagine.
-      </p>
-      <div class="options">
-        <div>
-          <span>
-            FREE
-          </span>
-          <p>
-            Choose from our large library of calculators. These can be embedded into your site.
-          </p>
+  <div class="bg"></div>
+
+  <div id="cta" class="container">
+    <div class="left">
+        <h1>Turbocharge your profitability</h1>
+        <p> 
+          We are an operations consultancy that engages quickly and economically. Team with us to get targeted support and agile software solutions.
+        </p>
+        <a class="button" href="#" id="get-in-touch">Get in touch</a>
+        <div class="arrow">
+            &darr;
         </div>
-        <div>
-          <span>
-            $500
-          </span>
-          <p>
-            Minimum engagement for 4 hours of custom design &amp; development.
-          </p>
+    </div>
+    <div class="right">
+      <div class="preview">
+        <div class="client">
+          <i class="fas fa-hdd"></i>
+          <h2>BARRETT STEEL</h2>
+          <p>Enterprise level order management system with lightweight CRM and notifications.</p>
         </div>
       </div>
+      <div class="preview-bg"></div>
     </div>
   </div>
 
-  <div class="carousel">
-    <div>
-      <a href="https://www.punchlistzero.com/eu-and-awg-cable-sizing-calculator/" target="_blank">
-        <img src="https://s3.us-east-2.amazonaws.com/punchlistzero/static/minimum-cable-size.jpg" />
-      </a>
-      <a class="caption" href="https://www.punchlistzero.com/eu-and-awg-cable-sizing-calculator/" target="_blank">Cable Sizing and Length Calculator</a>
-    </div>
-    <div>
-      <a href="https://www.punchlistzero.com/raceway-fill-calculator/" target="_blank">
-        <img src="https://s3.us-east-2.amazonaws.com/punchlistzero/static/raceway-fill-calculator.jpg" />
-      </a>
-      <a class="caption" href="https://www.punchlistzero.com/eu-and-awg-cable-sizing-calculator/" target="_blank">Conduit Fill Calculator</a>
-    </div>
-    <div>
-      <a href="https://www.punchlistzero.com/flange-pressure-rating-calculator-table/" target="_blank">
-        <img src="https://s3.us-east-2.amazonaws.com/punchlistzero/static/pipe-flange-rating-calculator.jpg" />
-      </a>
-      <a class="caption" href="https://www.punchlistzero.com/eu-and-awg-cable-sizing-calculator/" target="_blank">Pipe Flange Rating Calculator</a>
-    </div>
-    <div>
-      <a href="https://www.punchlistzero.com/control-panel-heat-dissipation-calculator/" target="_blank">
-        <img src="https://s3.us-east-2.amazonaws.com/punchlistzero/static/heat-dissipation-calculator.jpg" />
-      </a>
-      <a class="caption" href="https://www.punchlistzero.com/eu-and-awg-cable-sizing-calculator/" target="_blank">Control Panel Heat Dissipation Calculator</a>
+  <div id="trusted" class="container">
+    <h4>
+      TRUSTED BY <span></span>
+    </h4>
+    <div class="brands">
+      <div>Punchlist Zero</div>
+      <div>Barrett Steel</div>
+      <div>HC Thermal</div>
+      <div>Relevant Rental</div>
     </div>
   </div>
+  
+  <div id="areas" class="container">
+    <h2>
+      <span></span>
+      Areas of Expertise
+    </h2>
+    <div class="secondary">
+      <div class="left">
+          <div class="preview">
+              <div class="client">
+                  <i class="fas fa-tools"></i>
+                <h2>Punchlist Zero</h2>
+                <p>Custom engineering tools and calculators for energy industry professionals.</p>
+              </div>
+          </div>
+          <div class="preview-bg"></div>
+      </div>
+      <div class="expertise">
+        <ul>
+          <li>
+              <strong>Software Development</strong>
+              <p>We specialize in engineering calculators and project selection tools. </p>
+          </li>
+          <li>
+              <strong>Project Management</strong>
+              <p>We provide short term project management services with a highly qualified project manager.</p>
+          </li>
+          <li>
+              <strong>Engineering Services</strong>
+              <p>Design, drafting, engineering drawing review and PE stamping - When you want to outsource your engineering work, but don't know where to start.</p>
+          </li>
+          <li>
+              <strong>Digital Marketing Strategy</strong>
+              <p> If you work in oil and gas, there is a high chance that your marketing strategy was conjured up in the days of Spindletop. Make sure you are targeting the right places with the right resources at the right time. </p>
+          </li>
+          <li>
+              <strong>Fabrication Assessment</strong>
+              <p>We will do a walkthrough and deliver a detailed assessment and recommendations on your construction practices.</p>
+          </li>
+        </ul>
+      </div>
+    </div>
 
-  <div class="unique">
+  </div>
+
+  <div id="partners">
     <div class="container">
-      <h2>Momenta Tech Experience</h2>
-      <p><a href="https://www.linkedin.com/in/ziebro/" target="_blank">Travis Ziebro</a> has worked in the Oil and Gas industry as an engineer for over 15 years while <a href="https://www.linkedin.com/in/markmakes/" target="_blank">Mark Lancaster</a> has developed dozens of applications for a myriad of industries for over ten.</p>
-      <p>
-        Together, they have developed a dozen engineering calculators and tools that are widely used across the internet. 
-      </p>
-      <p>
-        <a href="https://www.punchlistzero.com/engineering-tools-and-calculators/" target="_blank">See our current set of tools created for Punchlist Zero</a>
-      </p>
+        <h2>Partners in Quality</h2>
+        <div class="partners">
+
+          <a href="#" class="animate">
+            <img src="http://lorempixel.com/200/200/" class="animate" />
+            <h3>Ellym Company</h3>
+            <p>Seasoned software developers specialized in web, eCommerce, and multimedia apps</p>
+          </a>
+
+          <a href="#" class="animate">
+            <img src="http://lorempixel.com/200/200/" class="animate" />
+            <h3>Ellym Company</h3>
+            <p>Seasoned software developers specialized in web, eCommerce, and multimedia apps</p>
+          </a>
+
+          <a href="#" class="animate">
+            <img src="http://lorempixel.com/200/200/" class="animate" />
+            <h3>Ellym Company</h3>
+            <p>Seasoned software developers specialized in web, eCommerce, and multimedia apps</p>
+          </a>
+
+          <a href="#" class="animate">
+            <img src="http://lorempixel.com/200/200/" class="animate" />
+            <h3>Ellym Company</h3>
+            <p>Seasoned software developers specialized in web, eCommerce, and multimedia apps</p>
+          </a>
+
+        </div>
     </div>
   </div>
 
-  <footer>
-    &copy; 2019 Momenta Tech &nbsp; &nbsp; | &nbsp; &nbsp; <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJdg8GnPco6R6pAN0pVrUF5HO4LVJSE5OkWgGAJXnp8AseKA/viewform">Contact us</a>
-  </footer>
+  <div id="blog" class="container">
+    <div class="blog">
+      <h6>4 min read</h6>
+      <a href="#">
+        <h2>This is an example of a blog title</h2>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+          Aliquam saepe iste architecto at, quibusdam repudiandae ut 
+          eos ipsa autem assumenda animi dicta eum illo quos expedita 
+          voluptatibus quod recusandae cum.
+        </p>
+      </a>
+    </div>
+    <div class="blog">
+      <h6>6 min read</h6>
+      <a href="#">
+        <h2>This is an example of a blog title</h2>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+          Aliquam saepe iste architecto at, quibusdam repudiandae ut 
+          eos ipsa autem assumenda animi dicta eum illo quos expedita 
+          voluptatibus quod recusandae cum.
+        </p>
+      </a>
+    </div>
+  </div>
 
-  <a id="contact" href="https://docs.google.com/forms/d/e/1FAIpQLSeJdg8GnPco6R6pAN0pVrUF5HO4LVJSE5OkWgGAJXnp8AseKA/viewform" target="_blank">
-    Get in touch <i class="fas fa-angle-right"></i>
-  </a>
+  <div id="contact" class="container">
+    <h4>
+      GET IN TOUCH <span></span>
+    </h4>
+    <div>
+      info@momentatech.llc
+    </div>
+  </div>
+
+  <form class="container">
+    <div>
+        <input type="text" placeholder="Your name" />
+        <input type="email" placeholder="Your email address" />
+    </div>
+    
+    <div>
+        <textarea placeholder="What can we help you with?"></textarea>
+        <button class="button">Send</button>
+    </div>
+  </form>
+
+  <h5>Houston, Texas &nbsp; | &nbsp; &copy; Momenta Tech, LLC.</h5>
+
+  <script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
 
   <script>
-    $(document).ready(function(){
-      $('.carousel').slick({
-        infinite: true,
-        autoplay: true,
-        autoplaySpeed: 4500
+    $( document ).ready(function() {
+      $(window).scroll(function (event) {
+          var scroll = $(window).scrollTop();
+          if (scroll > 200) {
+            $('header').addClass('scrolled');
+          } else {
+            $('header').removeClass('scrolled');
+          }
+      });
+      $('.logo').click(() => {
+        $('html, body').animate({
+            scrollTop: 0
+        }, 400);
+      });
+      $('#get-in-touch').click(() => {
+        $('html, body').animate({
+          scrollTop: $('#contact').offset().top - 140
+        }, 400);
+      });
+      $('header nav a').click((e) => {
+        var id = e.target.attributes['data-id'].nodeValue;
+        $('html, body').animate({
+            scrollTop: $('#' + id).offset().top - 140
+        }, 400);
       });
     });
   </script>
 
 </body>
 </html>
-
-
-
-
-
