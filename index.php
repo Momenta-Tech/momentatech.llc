@@ -19,7 +19,7 @@
         <h3 class="logo">Momenta<br />Tech</h3>
         <nav>
           <a href="#" data-id="areas">EXPERTISE</a>
-          <a href="#" data-id="partners">PARTNERS</a>
+          <a href="#" data-id="partners">ASSOCIATES</a>
           <a href="#" data-id="blog">BLOG</a>
           <a href="#" data-id="contact">CONTACT</a>
         </nav>
