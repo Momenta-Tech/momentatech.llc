@@ -1,7 +1,7 @@
 RewriteEngine On
 RewriteCond %{HTTP_REFERER} !^$
-RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?sample.com [NC]
-RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?google.com [NC]
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?momentatech.llc [NC]
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?momentatech.llc [NC]
 RewriteRule \.(jpg|jpeg|png|gif)$ – [NC,F,L]
 
 <IfModule mod_gzip.c>

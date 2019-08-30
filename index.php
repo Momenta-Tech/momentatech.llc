@@ -4,8 +4,8 @@
 <head>
   <meta charset="utf-8" />
   <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport' user-scalable='no'>
-  <title>Momenta Tech - Custom Software Solutions</title>
-  <meta name="description" content="Custom software solutions for the energy industy." />
+  <title>Momenta Tech - Custom Software Solutions for the Engineering and Energy Sectors</title>
+  <meta name="description" content="Custom Software Solutions for the Engineering and Energy Sectors" />
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,900&display=swap" rel="stylesheet">
   <link href="./index.css" rel="stylesheet">
@@ -44,7 +44,7 @@
         <div class="client">
           <i class="fas fa-hdd"></i>
           <h2>BARRETT STEEL</h2>
-          <p>Enterprise level order management system with lightweight CRM and notifications.</p>
+          <p>Enterprise-level order management system with lightweight CRM and notifications.</p>
         </div>
       </div>
       <div class="preview-bg"></div>
