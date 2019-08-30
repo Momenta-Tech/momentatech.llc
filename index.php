@@ -83,23 +83,19 @@
         <ul>
           <li>
               <strong>Software Development</strong>
-              <p>We specialize in engineering calculators and project selection tools. </p>
+              <p>We develop cloud based applications to empower your internal teams and help your customers find exactly what they are looking for.</p>
           </li>
           <li>
               <strong>Project Management</strong>
-              <p>We provide short term project management services with a highly qualified project manager.</p>
+              <p>Derisk your projects, improve your on time performance, and enhance profitability with our short term project management services.</p>
           </li>
           <li>
-              <strong>Engineering Services</strong>
-              <p>Design, drafting, engineering drawing review and PE stamping - When you want to outsource your engineering work, but don't know where to start.</p>
+              <strong>Technical Services</strong>
+              <p>From software developers to mechanical engineers, your organization requires highly qualified technical personnel to deliver outstanding products. We help you understand your manpower needs and provide qualified technical services and talent. </p>
           </li>
           <li>
-              <strong>Digital Marketing Strategy</strong>
-              <p> If you work in oil and gas, there is a high chance that your marketing strategy was conjured up in the days of Spindletop. Make sure you are targeting the right places with the right resources at the right time. </p>
-          </li>
-          <li>
-              <strong>Fabrication Assessment</strong>
-              <p>We will do a walkthrough and deliver a detailed assessment and recommendations on your construction practices.</p>
+              <strong>Operations Assessment</strong>
+              <p>Partner with us and our years of operational experience for P&L reviews, fabrication walkthroughs, and profitability evaluations. We understand the challenges small and medium sized businesses face and we are here to help. </p>
           </li>
         </ul>
       </div>
@@ -109,33 +105,49 @@
 
   <div id="partners">
     <div class="container">
-        <h2>Partners in Quality</h2>
+        <h2>Associates</h2>
         <div class="partners">
 
-          <a href="#" class="animate">
-            <img src="http://lorempixel.com/200/200/" class="animate" />
-            <h3>Ellym Company</h3>
-            <p>Seasoned software developers specialized in web, eCommerce, and multimedia apps</p>
-          </a>
-
-          <a href="#" class="animate">
-            <img src="http://lorempixel.com/200/200/" class="animate" />
-            <h3>Ellym Company</h3>
-            <p>Seasoned software developers specialized in web, eCommerce, and multimedia apps</p>
-          </a>
-
-          <a href="#" class="animate">
-            <img src="http://lorempixel.com/200/200/" class="animate" />
-            <h3>Ellym Company</h3>
-            <p>Seasoned software developers specialized in web, eCommerce, and multimedia apps</p>
-          </a>
-
-          <a href="#" class="animate">
-            <img src="http://lorempixel.com/200/200/" class="animate" />
-            <h3>Ellym Company</h3>
-            <p>Seasoned software developers specialized in web, eCommerce, and multimedia apps</p>
-          </a>
-
+          <div>
+            <img src="https://momentatech.s3.amazonaws.com/Travis-Ziebro.jpg" class="animate" />
+            <div>
+              <h3>Travis Ziebro</h3>
+              <h5>Senior Consultant</h5>
+              <p>Areas of Expertise: Software Development, Project Management, Technical Services, Operations Assessment.</p>
+              <p>Travis has a mechanical engineering degree, an MBA, and over 15 years of experience in technical and operational leadership.  Travis provides short term project management services and empowers clients with appropriate solutions via his deep understanding of profitability drivers.</p>
+            </div>
+          </div>
+          
+          <div>
+            <img src="https://momentatech.s3.amazonaws.com/Chris-Doray.jpeg" class="animate" />
+            <div>
+              <h3>Chris Doray</h3>
+              <h5>Senior Consultant</h5>
+              <p>Areas of Expertise: Software Development, Digital Marketing, Technical Services</p>
+              <p>Chris holds a Bachelor's of Fine Arts which he leveraged to lead a successful design company for 7 years. Chris then managed large scale corporate training initiatives and eventually to his focus today of leading cross-function teams in the assessment, development, and implementation of effective strategic solutions. </p>  
+            </div>
+          </div>
+          
+          <div>
+            <img src="https://momentatech.s3.amazonaws.com/Eddie-Carrasco.jpeg" class="animate" />
+            <div>
+              <h3>Eddie Carrasco</h3>
+              <h5>Consultant</h5>
+              <p>Areas of Expertise: Project Management, Operations Assessment</p>
+              <p>Eddie has over thirty years of experience in managing quick turn fabrication projects. He has managed all types of fabrication equipment, from skid packaged equipment to free-standing vessels, electrical enclosures, and offshore subsea projects. </p>  
+            </div>
+          </div>
+          
+          <div>
+            <img src="https://momentatech.s3.amazonaws.com/Mo-Dauodi.jpeg" class="animate" />
+            <div>
+              <h3>Mo Daoudi</h3>
+              <h5>Consultant</h5>
+              <p>Areas of Expertise: Technical Services, Digital Marketing</p>
+              <p>Mo holds a Bachelor's of Business and spent his early career in a rapid growth start-up. Mo has held a variety of operational and sales roles, leaving him well equipped to understand the changing needs and pressures of running a profitable business.</p>    
+            </div>
+          </div>
+          
         </div>
     </div>
   </div>
@@ -176,19 +188,25 @@
     </div>
   </div>
 
-  <form class="container">
-    <div>
-        <input type="text" placeholder="Your name" />
-        <input type="email" placeholder="Your email address" />
-    </div>
+  <form class="container" action="https://docs.google.com/forms/d/e/1FAIpQLSe4FFWRr-d1dCgCR9TAyAATpjPlyMn4NSjY45dAMwIwT8m8Sw/formResponse" target="_blank" method="POST" id="mG61Hd">
     
     <div>
-        <textarea placeholder="What can we help you with?"></textarea>
-        <button class="button">Send</button>
+      <input type="text" autocomplete="off" tabindex="0" aria-label="Name" name="entry.860392765" placeholder="Your name">
+      <input type="text" autocomplete="off" tabindex="0" aria-label="Email Address" name="entry.231858139" placeholder="Email address">
     </div>
-  </form>
 
-  <h5>Houston, Texas &nbsp; | &nbsp; &copy; Momenta Tech, LLC.</h5>
+    <div>
+      <textarea tabindex="0" name="entry.244446942" dir="auto" placeholder="What can we help you with?"></textarea>
+      <input type="hidden" name="fvv" value="1">
+      <input type="hidden" name="draftResponse" value="[null,null,&quot;-3103182430760666333&quot;]">
+      <input type="hidden" name="pageHistory" value="0">
+      <input type="hidden" name="fbzx" value="-3103182430760666333">
+      <button class="button">Send</button>
+    </div>
+    
+    </form>
+
+  <h5 class="footer">Houston, Texas &nbsp; | &nbsp; &copy; Momenta Tech, LLC.</h5>
 
   <script
   src="https://code.jquery.com/jquery-3.4.1.min.js"
