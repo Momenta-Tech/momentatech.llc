@@ -602,8 +602,8 @@ form button {
 		margin-left: 0;
 	}
 	#partners {
-		clip-path: polygon(0 3%, 100% 0, 100% 100%, 0% 100%);
-		padding-top: 80px;
+		clip-path: polygon(0 5%, 100% 0, 100% 100%, 0% 100%);
+		padding-top: 50px;
 		margin-top: 50px;
 	}
 	#partners .container {
@@ -616,11 +616,11 @@ form button {
 		margin-bottom: 20px;
 	}
 	#partners img {
-		width: 125px !important;
-		height: 125px !important;
+		width: 100px !important;
+		height: 100px !important;
 	}
 	.partners > div div {
-		width: calc(100% - 155px);
+		width: calc(100% - 130px);
 	}
 	#blog {
 		flex-direction: column;
