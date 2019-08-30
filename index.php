@@ -58,8 +58,8 @@
     <div class="brands">
       <div>Punchlist Zero</div>
       <div>Barrett Steel</div>
-      <div>HC Thermal</div>
-      <div>Relevant Rental</div>
+      <div>Stone Metal Works</div>
+      <div>Relevant Solutions</div>
     </div>
   </div>
   
